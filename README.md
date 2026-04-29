@@ -53,4 +53,4 @@ java Main ../dados/invalid-ciclo3.txt ../dados/iso-path4-a.txt
 
 ## Video
 
-Link do video explicativo: PREENCHER
+https://www.youtube.com/watch?v=LCBUGKuAHoo
